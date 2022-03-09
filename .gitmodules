@@ -1,0 +1,4 @@
+[submodule "libfprint"]
+	path = libfprint
+	url = https://github.com/clin1234/libfprint/
+	branch = raspy
